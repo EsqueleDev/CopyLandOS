@@ -1,0 +1,8 @@
+isodir/
+a.out
+basic.o
+boot.o
+kernel.o
+keyboard.o
+myos
+myos.iso
